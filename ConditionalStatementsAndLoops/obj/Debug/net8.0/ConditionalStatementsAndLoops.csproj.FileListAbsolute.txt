@@ -1,0 +1,15 @@
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Conditonal Statements and loops\ConditionalStatementsAndLoops\bin\Debug\net8.0\ConditionalStatementsAndLoops.exe
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Conditonal Statements and loops\ConditionalStatementsAndLoops\bin\Debug\net8.0\ConditionalStatementsAndLoops.deps.json
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Conditonal Statements and loops\ConditionalStatementsAndLoops\bin\Debug\net8.0\ConditionalStatementsAndLoops.runtimeconfig.json
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Conditonal Statements and loops\ConditionalStatementsAndLoops\bin\Debug\net8.0\ConditionalStatementsAndLoops.dll
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Conditonal Statements and loops\ConditionalStatementsAndLoops\bin\Debug\net8.0\ConditionalStatementsAndLoops.pdb
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Conditonal Statements and loops\ConditionalStatementsAndLoops\obj\Debug\net8.0\ConditionalStatementsAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Conditonal Statements and loops\ConditionalStatementsAndLoops\obj\Debug\net8.0\ConditionalStatementsAndLoops.AssemblyInfoInputs.cache
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Conditonal Statements and loops\ConditionalStatementsAndLoops\obj\Debug\net8.0\ConditionalStatementsAndLoops.AssemblyInfo.cs
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Conditonal Statements and loops\ConditionalStatementsAndLoops\obj\Debug\net8.0\ConditionalStatementsAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Conditonal Statements and loops\ConditionalStatementsAndLoops\obj\Debug\net8.0\ConditionalStatementsAndLoops.sourcelink.json
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Conditonal Statements and loops\ConditionalStatementsAndLoops\obj\Debug\net8.0\ConditionalStatementsAndLoops.dll
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Conditonal Statements and loops\ConditionalStatementsAndLoops\obj\Debug\net8.0\refint\ConditionalStatementsAndLoops.dll
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Conditonal Statements and loops\ConditionalStatementsAndLoops\obj\Debug\net8.0\ConditionalStatementsAndLoops.pdb
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Conditonal Statements and loops\ConditionalStatementsAndLoops\obj\Debug\net8.0\ConditionalStatementsAndLoops.genruntimeconfig.cache
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Conditonal Statements and loops\ConditionalStatementsAndLoops\obj\Debug\net8.0\ref\ConditionalStatementsAndLoops.dll
